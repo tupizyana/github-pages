@@ -1,5 +1,15 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "security.workspace.trust.banner": "",
+    "window.autoDetectColorScheme": true,
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
+    },
+    "ipynb.experimental.serialization": true,
+    "anycode.language.features": {
+        "folding": true,
+        "diagnostics": true
+    }
 }
